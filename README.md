@@ -10,4 +10,4 @@ and their descriptions.
 • The captioning model was trained on an Nvidia Quadro GPU and managed to produce natural looking descriptions on unseen images
 with a BLEU score of 22.5.
 
-•This is done in collaberation with the facelessmanx(my teammate).
+•This is done in collaboration with the facelessmanx(my teammate in the semester project).
